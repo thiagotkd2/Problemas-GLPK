@@ -1,0 +1,12 @@
+data;
+
+param barcos := 3;
+param tipoTripulante := 2;
+param custos := 1 50, 2 70, 3 100;
+param frota := 1 4, 2 8, 3 3;
+param equipe := 1 10, 2 18;
+param necessidade : 1 2 :=
+				1 1 1 
+				2 1 2 
+				3 1 3 
+;
