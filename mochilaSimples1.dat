@@ -1,0 +1,13 @@
+data;
+
+/* Instância a ser resolvida*/
+
+param m := 10;
+
+param w := 1 95, 2	4, 3	60, 4	32, 5	23, 6	72, 7	80, 8	62, 9	65, 10	46;
+
+param beneficio := 1 55, 2 10, 3 47, 4 5, 5	4, 6	50, 7	8, 8	61, 9	85, 10	87;
+
+param c := 260;
+
+end;
