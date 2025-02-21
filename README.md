@@ -50,6 +50,16 @@ Problema da mochila
 <li>x[4].val = 0</li>
 <li>x[5].val = 0</li>
 </ul>
+
+Com 0 significando ausência do item i na mochila e 1, presença do item i na mochila.
+
+Ex.:
+
+Item 1=ausente : x[1] = 0
+
+Item 2=presente : x[2] = 1
+
+
 <h4>mochilaSimples1.dat</h4>
 <ul>
 <li>FO.val = 294</li>
